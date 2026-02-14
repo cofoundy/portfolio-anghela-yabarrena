@@ -80,6 +80,15 @@ export const siteConfig = {
       ],
     },
     {
+      company: "Hospital Sabogal - EsSalud",
+      title: "Médico de Hospitalización COVID-19",
+      dateRange: "Jun 2020 - Oct 2020",
+      bullets: [
+        "Primera línea de atención durante inicio de pandemia",
+        "Manejo de pacientes COVID-19 en hospitalización",
+      ],
+    },
+    {
       company: "Hospital Solidaridad Surquillo",
       title: "Médico Coordinador",
       dateRange: "Mar 2018 - Feb 2020",
